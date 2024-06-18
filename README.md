@@ -5,6 +5,7 @@ Write a contract to make a token.
 ## Description
 
  REQUIREMENTS
+ 
     1. Your contract will have public variables that store the details about your coin (Token Name, Token Abbrv., Total Supply)
     
     2. Your contract will have a mapping of addresses to balances (address => uint)
@@ -24,8 +25,11 @@ Write a contract to make a token.
 ### Executing program
 
 1-Copy and Paste the code into Remix Ethereum.
+
 2-Compile the code.
+
 3-Deploy it.
+
 4-Call the functions and provide them with values if required.
 
 ## Help
