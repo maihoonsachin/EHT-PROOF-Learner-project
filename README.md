@@ -32,6 +32,12 @@ Write a contract to make a token.
 
 4-Call the functions and provide them with values if required.
 
+## AUTHOR
+
+Metacrafter Chris
+@metacraftersio
+
+
 
 ## License
 // SPDX-License-Identifier: MIT
