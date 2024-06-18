@@ -32,8 +32,6 @@ Write a contract to make a token.
 
 4-Call the functions and provide them with values if required.
 
-## Help
-Taken help from discord and friends.
 
 ## License
 // SPDX-License-Identifier: MIT
